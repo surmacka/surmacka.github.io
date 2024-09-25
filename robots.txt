@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://surmacka.github.io/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/app/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/assets/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/css/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/data/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/includes/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/item/sitemap.surmacka.gz
+Sitemap: https://surmacka.github.io/src/sitemap.surmacka.gz
